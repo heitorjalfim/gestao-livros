@@ -1,4 +1,4 @@
-# 📚 Gestão de Biblioteca API
+# Gestão de Biblioteca API
 
 API REST desenvolvida com Spring Boot para gerenciar um acervo de livros e seus respectivos autores. O projeto foca em boas práticas de arquitetura em camadas e validação de dados.
 
